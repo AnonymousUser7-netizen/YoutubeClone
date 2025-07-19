@@ -1,11 +1,14 @@
 p{
-  font-family: Roboto, Arial;/*here Arial works as backup font if first one have some issue in loading from google*/
+  /* font-family: Roboto, Arial;
+  here Arial works as backup font if first one have some issue 
+  in loading from google */
   margin-top: 0px;
   margin-bottom: 0px;
 }
 
 
 body{
+  font-family: Roboto, Arial;
   margin: 0px;
   padding-top: 80px;
   padding-left: 96px;
